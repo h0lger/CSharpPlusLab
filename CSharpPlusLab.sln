@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPlusLab", "CSharpPlusLab\CSharpPlusLab.csproj", "{5D172A5A-8A88-4ABD-82DB-29856EF4D7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{EB4A08B2-3B95-4F07-A23A-BA41C18F1ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D172A5A-8A88-4ABD-82DB-29856EF4D7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D172A5A-8A88-4ABD-82DB-29856EF4D7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D172A5A-8A88-4ABD-82DB-29856EF4D7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D172A5A-8A88-4ABD-82DB-29856EF4D7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4A08B2-3B95-4F07-A23A-BA41C18F1ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A08B2-3B95-4F07-A23A-BA41C18F1ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A08B2-3B95-4F07-A23A-BA41C18F1ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A08B2-3B95-4F07-A23A-BA41C18F1ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
